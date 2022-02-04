@@ -8,4 +8,5 @@
 &#10004; 1799 : [비숍](https://www.acmicpc.net/problem/1799) </br>
 &#10004; 1938 : [통나무 옮기기](https://www.acmicpc.net/problem/1938) </br>
 &#10004; 2493 : [탑](https://www.acmicpc.net/problem/2493) </br>
+&#10004; 2660 : [회장뽑기](https://www.acmicpc.net/problem/2660) </br>
 &#10004; 1719 : [택배](https://www.acmicpc.net/problem/1719) </br>
